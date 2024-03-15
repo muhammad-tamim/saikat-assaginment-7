@@ -1,6 +1,6 @@
 .nav {
     display: grid;
-    grid-template-columns: 30% 45% 35%;
+    grid-template-columns: 30% 45% 30%;
     margin: 2% 5%;
     align-items: center;
 }

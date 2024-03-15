@@ -13,9 +13,9 @@ const Nav = () => {
                 <div>
                     <input placeholder='Search' type="text" />
                 </div>
-                <div>
-                    <img src="../../src/assets/img/profile.png" alt="" />
-                </div>
+
+                <img src="../../src/assets/img/profile.png" alt="" />
+
             </div>
         </div>
     );
