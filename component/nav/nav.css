@@ -1,0 +1,44 @@
+.nav {
+    display: grid;
+    grid-template-columns: 30% 45% 35%;
+    margin: 2% 5%;
+    align-items: center;
+}
+
+.poppins-thin {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.logo {
+    font-size: 35px;
+    font-weight: 900;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: rgb(67, 67, 67);
+    margin-left: 25px;
+    font-size: 20px;
+}
+
+.search-box {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+}
+
+.search-box input {
+    padding: 12px 20px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 100px;
+    background-color: rgb(230, 230, 230);
+}
+
+.search-box img {
+    height: 45px;
+}

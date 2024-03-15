@@ -1,0 +1,88 @@
+[
+    {
+        "recipe_image": "chicken_teriyaki.jpg",
+        "recipe_id": "1",
+        "recipe_name": "Chicken Teriyaki",
+        "short_description": "Delicious Japanese-style grilled chicken glazed in a savory-sweet teriyaki sauce.",
+        "ingredients": [
+            "550 g chicken",
+            "120 ml soy sauce",
+            "200 g basil leaf",
+            "400 g mushroom"
+        ],
+        "preparing_time": "30 min",
+        "calories": "320 calories"
+    },
+    {
+        "recipe_image": "spaghetti_bolognese.jpg",
+        "recipe_id": "2",
+        "recipe_name": "Spaghetti Bolognese",
+        "short_description": "Classic Italian pasta dish with a rich tomato and meat sauce.",
+        "ingredients": [
+            "400 g spaghetti",
+            "300 g ground beef",
+            "500 ml tomato sauce",
+            "1 onion",
+            "2 cloves garlic"
+        ],
+        "preparing_time": "45 min",
+        "calories": "450 calories"
+    },
+    {
+        "recipe_image": "vegetable_stir_fry.jpg",
+        "recipe_id": "3",
+        "recipe_name": "Vegetable Stir Fry",
+        "short_description": "Healthy and colorful stir-fried vegetables tossed in a flavorful sauce.",
+        "ingredients": [
+            "300 g mixed vegetables (bell peppers, carrots, broccoli)",
+            "100 g tofu",
+            "50 ml soy sauce",
+            "2 tbsp vegetable oil"
+        ],
+        "preparing_time": "20 min",
+        "calories": "200 calories"
+    },
+    {
+        "recipe_image": "mango_chicken_salad.jpg",
+        "recipe_id": "4",
+        "recipe_name": "Mango Chicken Salad",
+        "short_description": "Refreshing salad with tender chicken, ripe mango, and crunchy vegetables.",
+        "ingredients": [
+            "300 g chicken breast",
+            "1 mango",
+            "100 g mixed greens",
+            "50 g cherry tomatoes",
+            "1 avocado"
+        ],
+        "preparing_time": "25 min",
+        "calories": "280 calories"
+    },
+    {
+        "recipe_image": "chocolate_mousse.jpg",
+        "recipe_id": "5",
+        "recipe_name": "Chocolate Mousse",
+        "short_description": "Decadent and creamy dessert made with rich chocolate and whipped cream.",
+        "ingredients": [
+            "200 g dark chocolate",
+            "300 ml heavy cream",
+            "50 g sugar",
+            "2 eggs"
+        ],
+        "preparing_time": "40 min",
+        "calories": "350 calories"
+    },
+    {
+        "recipe_image": "grilled_salmon.jpg",
+        "recipe_id": "6",
+        "recipe_name": "Grilled Salmon",
+        "short_description": "Flavorful grilled salmon fillets seasoned with herbs and lemon.",
+        "ingredients": [
+            "4 salmon fillets",
+            "1 lemon",
+            "2 tbsp olive oil",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": "15 min",
+        "calories": "280 calories"
+    }
+]
