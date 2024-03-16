@@ -1,6 +1,6 @@
 [
     {
-        "recipe_image": "chicken_teriyaki.jpg",
+        "recipe_image": "https://www.budgetbytes.com/wp-content/uploads/2022/04/Teriyaki-Chicken-plate.jpg",
         "recipe_id": "1",
         "recipe_name": "Chicken Teriyaki",
         "short_description": "Delicious Japanese-style grilled chicken glazed in a savory-sweet teriyaki sauce.",
@@ -14,7 +14,7 @@
         "calories": "320 calories"
     },
     {
-        "recipe_image": "spaghetti_bolognese.jpg",
+        "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfbINCLn7lwIUKMvr81SntrVC3UxaFY8DnH8RgNwm_zckucAe89fjNcZ82c3y22IZxIss&usqp=CAU",
         "recipe_id": "2",
         "recipe_name": "Spaghetti Bolognese",
         "short_description": "Classic Italian pasta dish with a rich tomato and meat sauce.",
@@ -29,7 +29,7 @@
         "calories": "450 calories"
     },
     {
-        "recipe_image": "vegetable_stir_fry.jpg",
+        "recipe_image": "https://www.allrecipes.com/thmb/sJM3wA6mCvZ46ygU9zcIGTLSFOw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222658-frozen-vegetable-stir-fry-2x1-1379-1fcd4cf97a5e467888fa2498e10c12e9.jpg",
         "recipe_id": "3",
         "recipe_name": "Vegetable Stir Fry",
         "short_description": "Healthy and colorful stir-fried vegetables tossed in a flavorful sauce.",
@@ -43,7 +43,7 @@
         "calories": "200 calories"
     },
     {
-        "recipe_image": "mango_chicken_salad.jpg",
+        "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG3ha_8WLc3WWW0aS_1TaPnRkWT4Xcd6jDFQ&usqp=CAU",
         "recipe_id": "4",
         "recipe_name": "Mango Chicken Salad",
         "short_description": "Refreshing salad with tender chicken, ripe mango, and crunchy vegetables.",
@@ -58,7 +58,7 @@
         "calories": "280 calories"
     },
     {
-        "recipe_image": "chocolate_mousse.jpg",
+        "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjQ2q54Q-Q4xeqpe3F7IP3M6ylZZEy7G64snQ924ZU1hB1ITYmZ2p7AjTnm7bXlcjIUlw&usqp=CAU",
         "recipe_id": "5",
         "recipe_name": "Chocolate Mousse",
         "short_description": "Decadent and creamy dessert made with rich chocolate and whipped cream.",
@@ -72,7 +72,7 @@
         "calories": "350 calories"
     },
     {
-        "recipe_image": "grilled_salmon.jpg",
+        "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLp5NgppqIMOIrtlLZOckSS6IOOsbhdAGKpg&usqp=CAU",
         "recipe_id": "6",
         "recipe_name": "Grilled Salmon",
         "short_description": "Flavorful grilled salmon fillets seasoned with herbs and lemon.",
